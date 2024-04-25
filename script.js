@@ -10,7 +10,7 @@ the new speed to the console
 'brake' multiple times on each of them
 Test data:
 § Data car 1: 'BMW' going at 120 km/h
-§ Data car 2: 'Mercedes' going at 95 km/ 
+§ Data car 2: 'Mercedes' going at 95 km/  
 */
 
 const Car = function (make, speed) {
